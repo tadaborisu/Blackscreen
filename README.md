@@ -3,4 +3,4 @@
 This application makes totally black window, on that you can switch and your monitor will be look like it turned off.<br/>
 I think this can be useful in several situations
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=621848661044795034" height="295" width="345" frameborder="0" scrolling="no">
+<img src = 'https://lh3.googleusercontent.com/gC0h34NSxBes16acH6V_EoRfLTxons-F5v7XrON4XjF1KMJ0jdpsegPr2bcohxW-kxssCnDaalLUkGExS5IyzUZolSHpsJJYBkMqFJG7tqqeKFja0vPum8Mnox07vW927G4hNMuNhXLTLgOk47Fi9WVMaLsWswzXaLOTsIDxv2shbRhrTglocDyP9iafMvm2OFHogIkxtthKSFZmo4o4fJDcc2y1sFx2e8VDs8l1DoaFnW_kqhWII_4CgHAyIeaepTLiMpX79uL2izA8DMEorPaGaM-LaG1UkHW8l7B1v5xUn88Xb1447ApUP9nemXl2t7XERa9sw3QuPy9hoXlFcCRRgeVtXz5RsnzfO0gXsWy35HUk1EWgLVjvtQZeOhos6HChgae22VMfBbRsrEsMsq521QDPxGYzNZOdg1DQIA55_eM6hhJYBov6fga5lUxv3gl7XHtcvLN0Mh1RQPZ_qOl974wcZrdds6s2Tab6bao2iHNAGzNrY3z8F343NFwjKmhbh3gzANdsbcTZn6TB7PGOOnaQUDB923-Zfnh_6vA670QGiAJpE1HVTDXuUi21-JAEz29g67nnrUm_cjfxBIK6DQqjIM48zJX4YKpOCI_5QCktVorVnR-E_vALAwefMVMs7AYhKKbTN7oeLm_pRXcKoij_ASTI6XhiWfpdGtbP8KghYSdrJpf6jhBN=w1397-h786-no?authuser=0'>
