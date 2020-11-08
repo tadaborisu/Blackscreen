@@ -1,6 +1,6 @@
 # Blackscreen
 
-This application makes black window, on that you can switch and your monitor will be look like it turned off
+This application makes totally black window, on that you can switch and your monitor will be look like it turned off
+I think this can be useful in several situations
 
-Создает черное окно на которое вы можете перключится и ваш монитор будет выглядеть как будто он выключен
 <img src = 'https://lh3.googleusercontent.com/A1RbL89e_UWi21iDNLKSXn2aadQR2VyVaGjP6f23CA7KuEUk-sVMgEo9pkNIIqcarHqZ7PHrwlIvMbh_g0Vx_Y73JmdUfRe1JUKWbo95zJm64DsrjmfCcWblM_b7W5CCAKXHo7cHPgssUobtt2qTugTam6LYoeFsWl-YNFiCv07Al3b9r2ROFGEtOmlkxjFownqjEH8kTmzALgEhSyGfQc8joR9Sy0X6UK2x_xvT61xx1-OOVqDt_Mv7RvOAS7Jt07STvVtoYdds65CGVCN3Tgg1s-RkhC0cAjTIDo25rTHyDgK9dTbvPJ_eyKtiC1HyU0IRuIcbEqIOmFtYQ549r_CoZf1ynMbUd0XnGz4Hp9vxvByp4aEGA7RvftZxTFcMjZJpazG3MtWR1AnwCrTk6Kfzs5vUXKFxvf7wdJce8IdZ5nivSN911qopqQOdei56Doiurq2nb5aSUXUlpLtvzJ6MH-f8lSFx9BnkcsOKC0nCLWoNP7ms84PV3VcbcjdJ3IEMHrhhQAf1tInTZuixuxolw0MAbjrBYfCsdaTPBK1FlDctBwSLuL1AFPfj0B_CxZ6epVj2zprTEID6sj7I9YiWHsYd_PWYNjcwwJu7o7PQrjY_26_aMho-5yuEnaizLw-URMUR63OTJoAD7hjudDSU6FxyG0QLH2xuuXpdsr4oEWDq2X-pavOe2H5i=w1726-h983-no?authuser=0'>
